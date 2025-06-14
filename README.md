@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamir Ali</h1>
-<h3 align="center">A passionate frontend developer...</h3>
+<h3 align="center">Obsessed with responsive design and buttery-smooth user experiences 🤭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamirali55&label=Profile%20views&color=0e75b6&style=flat" alt="shamirali55" /> </p>
 
@@ -15,11 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShamirAli55](https://github.com/ShamirAli55)
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
-
 - 💬 Ask me about **React,frontend design tools**
 
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
+- 📄 Know about my experiences ...
 
 - ⚡ Fun fact **I once made a banking system using AVL Trees in C++ just for fun 😄**
 
