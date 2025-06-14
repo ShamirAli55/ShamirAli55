@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamir Ali</h1>
-<h3 align="center">Obsessed with responsive design and buttery-smooth user experiences 🤭</h3>
+<h3 align="center">Obsessed with responsive design and buttery-smooth user experiences 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamirali55&label=Profile%20views&color=0e75b6&style=flat" alt="shamirali55" /> </p>
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shamir-ali-94b939332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamirali55" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shamir-ali-94b939332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamirali55" height="30" width="40" /></a>
 <a href="https://fb.com/shamir ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamir ali" height="30" width="40" /></a>
 </p>
 
