@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences ...
 
-- ⚡ Fun fact **I once made a banking system using AVL Trees in C++ just for fun 😄**
+<!--!-- ⚡ Fun fact **I once made a banking system using AVL Trees in C++ just for fun 😄**--!-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
