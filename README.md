@@ -8,18 +8,17 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&speed=30&color=F7F7F7&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" style="max-width: 100%; height: auto;" />
       </div>
       <div style="text-align: center; margin-top: -10px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" style="max-width: 100%; height: auto;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" style="max-width: 100%; height: auto;align:"center;" />
       </div>
       <p style="text-align: center; max-width: 90%; margin: 10px auto;">
         I love building interactive user interfaces with smooth animations and a clean structure.<br><br>
         Currently focusing on React.js, GSAP, and backend integration to level up my full-stack game.
       </p>
-      <p>
-        <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Shamir_Ali_Resume.pdf" download>
-          <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
-        </a>
-      </p>
-    </td>
+<p align="center">
+  <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Shamir_Ali_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
+  </a>
+</p>
   </tr>
 </table>
 
