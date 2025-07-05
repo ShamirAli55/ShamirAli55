@@ -1,16 +1,16 @@
-<table>
-  <tr>
-    <td width="45%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hero-animation" width="100%" />
+<table align="center" style="width: 100%; max-width: 1000px; border: none;">
+  <tr style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
     </td>
-    <td>
+    <td style="flex: 1 1 300px; padding: 10px; min-width: 280px;">
       <h1>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&speed=30&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" />
       </h1>
       <h3>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&width=700&lines=Frontend+Developer+%E2%80%A2+React.js+Focused+%E2%80%A2+UI+Animation+Lover" alt="Typing Animation" />
       </h3>
-      <p>
+      <p style="text-align: justify;">
         I love building interactive user interfaces with smooth animations and a clean structure.<br><br>
         Currently focusing on React.js, GSAP, and backend integration to level up my full-stack game.
       </p>
@@ -22,6 +22,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
