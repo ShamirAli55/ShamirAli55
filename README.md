@@ -76,7 +76,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
