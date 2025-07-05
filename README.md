@@ -1,68 +1,53 @@
-<table>
-  <tr>
-    <td width="45%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hero-animation" width="100%" />
-    </td>
-    <td>
-      <h1>Hi 👋, I'm Shamir Ali</h1>
-      <h3>Frontend Developer • React.js Enthusiast • UI Animation Lover</h3>
-      <p>
-        I love building interactive user interfaces with smooth animations and a clean structure.<br><br>
-        Currently focusing on React.js, GSAP, and backend integration to level up my full-stack game.
-      </p>
-      <p>
-        <a href="/assets/Shamir_Ali_Resume.pdf" download>
-          <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 About Me
-
-- 🔭 Building a **Pet Management System** (HTML, CSS, PHP, MySQL)
-- 🌱 Learning **React.js**, **GSAP**, and **REST APIs**
-- 👯 Looking to collaborate on **frontend-focused projects**
-- 🤝 Exploring full-stack integrations and deployment pipelines
-
----
-
-## 🛠️ Languages & Tools
-
+<!-- Hero Section -->
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://greensock.com/gsap/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/GreenSock_Logo.svg" alt="GSAP" height="30" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="hero-gif" align="left" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shamir+Ali;Frontend+Developer;React+%7C+GSAP+%7C+UI+Enthusiast;Let%E2%80%99s+build+cool+stuff+together" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 💫 About Me
+- 🔭 Working on **Pet Management System** using `HTML`, `CSS`, `PHP`, `MySQL`
+- 🌱 Learning `React.js`, `GSAP`, and `REST APIs`
+- 👯 Looking to collaborate on **frontend-focused React projects**
+- 💬 Ask me about **React, UI design tools, or frontend performance**
+- 📫 Reach me at: **shamiralidev@gmail.com**
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ShamirAli55" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" />
+  <a href="mailto:shamiralidev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://github.com/ShamirAli55"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+  <a href="https://linkedin.com/in/shamir-ali-94b939332"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://facebook.com/shamirali"><img src="https://skillicons.dev/icons?i=facebook" height="30"/></a>
+</p>
+
+<p align="center">
+  <a href="assets/Shamir_Ali_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat" />
   </a>
-  <a href="https://linkedin.com/in/shamir-ali-94b939332" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
-  </a>
-  <a href="mailto:shamiralidev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" />
-  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="35"/></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="35"/></a>
+  <a href="https://greensock.com/gsap/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" height="35" alt="GSAP" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="35"/></a>
+  <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="35"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="35"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="35"/></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="35"/></a>
+  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="35"/></a>
 </p>
 
 ---
@@ -70,7 +55,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=algolia&margin-w=15&margin-h=15" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+> *(Optional — You can use GitHub’s pin feature manually or showcase selected project cards here)*  
+> Let me know if you want to add a custom grid of your featured repositories.
+
+---
+
+Let me know if you'd like a light mode version or custom background colors/icons!
