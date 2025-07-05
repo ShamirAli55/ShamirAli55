@@ -8,7 +8,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&speed=30&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" />
       </h1>
       <h3>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&width=600&lines=Frontend+Developer+%E2%80%A2+React.js+Focused+%E2%80%A2+UI+Animation+Lover" alt="Typing Animation" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&width=700&lines=Frontend+Developer+%E2%80%A2+React.js+Focused+%E2%80%A2+UI+Animation+Lover" alt="Typing Animation" />
       </h3>
       <p>
         I love building interactive user interfaces with smooth animations and a clean structure.<br><br>
