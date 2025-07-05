@@ -15,7 +15,7 @@
         Currently focusing on React.js, GSAP, and backend integration to level up my full-stack game.
       </p>
       <p>
-        <a href="/assets/Shamir_Ali_Resume.pdf" download>
+        <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Shamir_Ali_Resume.pdf" download>
           <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
         </a>
       </p>
