@@ -74,7 +74,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" /> -->
 </p>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
