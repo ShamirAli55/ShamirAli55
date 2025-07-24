@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Building a **Pet Management System** (HTML, CSS, PHP, MySQL)
+<!--- 🔭 Building a **Pet Management System** (HTML, CSS, PHP, MySQL)--->
 - 🌱 Learning **React.js**, **GSAP**, and **REST APIs**
 - 👯 Looking to collaborate on **frontend-focused projects**
 - 🤝 Exploring full-stack integrations and deployment pipelines
