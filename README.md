@@ -5,7 +5,7 @@
     </td>
     <td style="flex: 1 1 300px; padding: 10px; min-width: 280px; text-align: center;">
       <div style="text-align: center;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&speed=30&color=F7F7F7&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" style="max-width: 100%; height: auto;" />
       </div>
       <div style="text-align: center; margin-top: -10px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" style="max-width: 100%; height: auto;align:"center;" />
