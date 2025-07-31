@@ -61,7 +61,7 @@
   <a href="https://github.com/ShamirAli55" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" />
   </a>
-  <a href="www.linkedin.com/in/shamirali55" target="_blank">
+  <a href="https://www.linkedin.com/in/shamirali55" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
   </a>
   <a href="mailto:shamirali9779@gmail.com" target="_blank">
