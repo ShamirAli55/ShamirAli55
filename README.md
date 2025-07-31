@@ -22,8 +22,11 @@
   </tr>
 </table>
 
+### 💻 Terminal-Style Intro
 
-
+```bash
+> Portfolio: Coming Soon
+```
 ---
 
 ## 🚀 About Me
@@ -32,6 +35,12 @@
 - 🤝 Exploring full-stack integrations and deployment pipelines
 - 🧠 Goal: Master full-stack + motion-first UI
 - 🎯 Open to collaboration & cool ideas
+<!-- Collaboration badge -->
+<p align="center">
+  <a href="mailto:shamirali9779@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f425f.svg?style=for-the-badge&logo=Handshake&logoColor=white&color=green" />
+  </a>
+</p>
 
 ---
 
@@ -70,6 +79,7 @@
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
