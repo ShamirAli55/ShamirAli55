@@ -61,10 +61,10 @@
   <a href="https://github.com/ShamirAli55" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" />
   </a>
-  <a href="https://linkedin.com/in/shamir-ali-94b939332" target="_blank">
+  <a href="www.linkedin.com/in/shamirali55" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
   </a>
-  <a href="mailto:shamiralidev@gmail.com" target="_blank">
+  <a href="mailto:shamirali9779@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" />
   </a>
 </p>
