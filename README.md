@@ -27,11 +27,11 @@
 ---
 
 ## 🚀 About Me
-
-<!--- 🔭 Building a **Pet Management System** (HTML, CSS, PHP, MySQL)--->
+<!-- 👯 Looking to collaborate on **frontend-focused projects**-->
 - 🌱 Learning **React.js**, **GSAP**, and **REST APIs**
-- 👯 Looking to collaborate on **frontend-focused projects**
 - 🤝 Exploring full-stack integrations and deployment pipelines
+- 🧠 Goal: Master full-stack + motion-first UI
+- 🎯 Open to collaboration & cool ideas
 
 ---
 
@@ -74,7 +74,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
 </p>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
