@@ -5,7 +5,7 @@
     </td>
     <td style="flex: 1 1 300px; padding: 10px; min-width: 280px; text-align: center;">
       <div style="text-align: center;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=150000&speed=30&color=00F7FF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shamir+Ali" alt="Typing SVG" style="max-width: 100%; height: auto;" />
       </div>
       <div style="text-align: center; margin-top: -10px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" style="max-width: 100%; height: auto;align:"center;" />
@@ -44,22 +44,30 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ts" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vite" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=express" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=php" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="42" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" height="42" /></a>
+  
 </p>
 
 ---
@@ -68,13 +76,13 @@
 
 <p align="center">
   <a href="https://github.com/ShamirAli55" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="42" />
   </a>
   <a href="https://www.linkedin.com/in/shamirali55" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42" />
   </a>
   <a href="mailto:shamirali9779@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42" />
   </a>
 </p>
 
