@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/colors.gif" alt="banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Shamir Ali <br>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
