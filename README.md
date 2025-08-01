@@ -21,7 +21,7 @@
 </table>
 
 
-<table>
+<table align="center">
 <tr>
 <td>
 
