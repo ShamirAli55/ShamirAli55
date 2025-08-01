@@ -21,7 +21,11 @@
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
-
+<p align="center">
+  <a href="mailto:shamirali9779@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f425f.svg?style=for-the-badge&logo=Handshake&logoColor=white&color=green" />
+  </a>
+</p>
 </td>
 
   <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
@@ -93,6 +97,14 @@
 </table>
 
 ---
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
 
 ## 📫 Connect with Me
 
@@ -109,8 +121,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
-</p>
 
