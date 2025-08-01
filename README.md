@@ -54,22 +54,22 @@
 </p>
 
 #### ✨ Web Animations  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Locomotive-000000?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
 </p>
 
-#### 🧑‍💻 Programming Languages  
-<p>
+#### 💻 Programming Languages  
+<p  align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img src="https://skillicons.dev/icons?i=python" height="40" />
 </p>
 
 #### ⚙️ Tools & Platforms  
-<p>
+<p  align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" />
