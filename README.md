@@ -8,25 +8,24 @@
 
 <table>
   <tr>
-<td align="left" style="padding-top: 5px;">
+<td align="left">
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li>🌱 Learning <strong>React.js</strong>, <strong>GSAP</strong>, and <strong>REST APIs</strong></li>
-    <li>🤝 Exploring full-stack integrations and deployment pipelines</li>
+    <li>🤝 Exploring full-stack integrations</li>
     <li>🧠 Goal: Master full-stack + motion-first UI</li>
     <li>🎯 Open to collaboration & cool ideas</li>
   </ul>
-
-<p align="center">
-  <a href="mailto:shamirali9779@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f425f.svg?style=for-the-badge&logo=Handshake&logoColor=white&color=green" alt="Collaboration Badge">
+<p align="center" style="margin-top:100px;">
+  <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Shamir_Ali_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
 
 </td>
 
   <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Grinding.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
     </td>
 </tr>
 </table>
@@ -55,22 +54,22 @@
 </p>
 
 #### ✨ Web Animations  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Locomotive-000000?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
 </p>
 
-#### 🧑‍💻 Programming Languages  
-<p>
+#### 💻 Programming Languages  
+<p  align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img src="https://skillicons.dev/icons?i=python" height="40" />
 </p>
 
 #### ⚙️ Tools & Platforms  
-<p>
+<p  align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" />
@@ -83,8 +82,13 @@
 
 </td>
 <td align="center" width="40%">
-  <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/coding.gif" width="300" alt="Coding GIF" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" />
+</div>
+
 </td>
+
 </tr>
 </table>
 
@@ -110,7 +114,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" />
-</div>
