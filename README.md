@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-<td align="left" style="padding-top: 5px;">
+<td align="left">
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li>🌱 Learning <strong>React.js</strong>, <strong>GSAP</strong>, and <strong>REST APIs</strong></li>
