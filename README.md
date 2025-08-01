@@ -12,7 +12,7 @@
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li>🌱 Learning <strong>React.js</strong>, <strong>GSAP</strong>, and <strong>REST APIs</strong></li>
-    <li>🤝 Exploring full-stack integrations and deployment pipelines</li>
+    <li>🤝 Exploring full-stack integrations</li>
     <li>🧠 Goal: Master full-stack + motion-first UI</li>
     <li>🎯 Open to collaboration & cool ideas</li>
   </ul>
@@ -82,8 +82,9 @@
 
 </td>
 <td align="center" width="40%">
-  <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/coding.gif" width="300" alt="Coding GIF" />
+  <img src="https://github.com/ShamirAli55/ShamirAli55/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </td>
+
 </tr>
 </table>
 
