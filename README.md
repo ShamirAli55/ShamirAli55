@@ -82,7 +82,11 @@
 
 </td>
 <td align="center" width="40%">
-  <img src="https://github.com/ShamirAli55/ShamirAli55/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" />
+</div>
+
 </td>
 
 </tr>
@@ -110,7 +114,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" />
-</div>
