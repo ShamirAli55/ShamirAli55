@@ -2,16 +2,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/banner.png" alt="banner" />
 </p>
-<h1 align="center">Hi 👋, I'm Shamir Ali</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
+<h1 align="center">Hi 👋, I'm Shamir Ali <br>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
 </h1>
-
 
 <table>
   <tr>
-<td align="left" style="padding-top: 10px;">
+<td align="left" style="padding-top: 5px;">
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li>🌱 Learning <strong>React.js</strong>, <strong>GSAP</strong>, and <strong>REST APIs</strong></li>
