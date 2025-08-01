@@ -16,10 +16,9 @@
     <li>🧠 Goal: Master full-stack + motion-first UI</li>
     <li>🎯 Open to collaboration & cool ideas</li>
   </ul>
-
-<p align="center">
-  <a href="mailto:shamirali9779@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f425f.svg?style=for-the-badge&logo=Handshake&logoColor=white&color=green" alt="Collaboration Badge">
+<p align="center" style="margin-top:100px;">
+  <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Shamir_Ali_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
 
