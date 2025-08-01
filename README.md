@@ -26,7 +26,7 @@
 </td>
 
   <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Grinding.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
     </td>
 </tr>
 </table>
