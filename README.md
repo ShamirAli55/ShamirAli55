@@ -2,26 +2,40 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/banner.png" alt="banner" />
 </p>
-<table align="center">
-  <tr>
-    <td>
 <h1 align="center">Hi 👋, I'm Shamir Ali</h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
+</h1>
+
+
+<table>
+  <tr>
+<td align="left" style="padding-top: 10px;">
+  <h2>🚀 About Me</h2>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>🌱 Learning <strong>React.js</strong>, <strong>GSAP</strong>, and <strong>REST APIs</strong></li>
+    <li>🤝 Exploring full-stack integrations and deployment pipelines</li>
+    <li>🧠 Goal: Master full-stack + motion-first UI</li>
+    <li>🎯 Open to collaboration & cool ideas</li>
+  </ul>
+
 <p align="center">
-  🚀 Fullstack Developer <!--|--UI Cloner--> | Animation Enthusiast <br><br><br>
-  ⚡ Making boring UI look ✨ smooth ✨ <!--with GSAP, ScrollTrigger, and Locomotive--> <br><br><br>
-  🎨 Clean code. Pixel-perfect. No compromises.
+  <a href="mailto:shamirali9779@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f425f.svg?style=for-the-badge&logo=Handshake&logoColor=white&color=green" alt="Collaboration Badge">
+  </a>
 </p>
 
 </td>
-    <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
+
+  <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
     </td>
 </tr>
 </table>
 
 
-<table align="center">
+<table>
 <tr>
 <td>
 
@@ -94,8 +108,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
