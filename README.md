@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/colors.gif" alt="banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Shamir Ali <br>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
@@ -21,12 +21,20 @@
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
-
+<p align="center">
+  <a href="mailto:shamirali9779@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Collaborate-1f425f.svg?style=for-the-badge&logo=Handshake&logoColor=white&color=green" />
+  </a>
+</p>
 </td>
 
-  <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
-<img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Grinding.gif" alt="hero-animation" style="width: 100%; max-width: 400px; border-radius: 10px;" />
-    </td>
+<td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
+  <img 
+    src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Grinding.gif" 
+    alt="hero-animation" 
+    style="width: 100%; max-width: 300px; border-radius: 10px;"  />
+</td>
+
 </tr>
 </table>
 
@@ -93,6 +101,14 @@
 </table>
 
 ---
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
 
 ## 📫 Connect with Me
 
@@ -109,8 +125,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
-</p>
 
