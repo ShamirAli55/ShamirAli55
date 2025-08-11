@@ -30,7 +30,7 @@
 
 <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
   <img 
-    src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Running.gif" 
+    src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Chill.gif" 
     alt="hero-animation" 
     style="width: 100%; max-width: 300px; border-radius: 10px;"  />
 </td>
