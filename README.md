@@ -6,7 +6,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
 </h1>
 
-<table>
+<table align="center">
   <tr>
 <td align="left">
   <h2>🚀 About Me</h2>
@@ -30,7 +30,7 @@
 
 <td style="flex: 1 1 300px; padding: 10px; text-align: center; min-width: 280px;">
   <img 
-    src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Grinding.gif" 
+    src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/Chilling.gif" 
     alt="hero-animation" 
     style="width: 100%; max-width: 300px; border-radius: 10px;"  />
 </td>
@@ -58,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" />
+<!--   <img src="https://skillicons.dev/icons?i=php" height="40" /> -->
 </p>
 
 #### ✨ Web Animations  
@@ -71,7 +71,7 @@
 
 #### 💻 Programming Languages  
 <p  align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
+<!--   <img src="https://skillicons.dev/icons?i=c" height="40" /> -->
   <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img src="https://skillicons.dev/icons?i=python" height="40" />
 </p>
