@@ -113,7 +113,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" /> -->
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
+ <!-- <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=shamirali55&theme=radical&margin-w=10" /> -->
 </p>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -122,8 +124,6 @@
 
 <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/wave.gif" width="100%" />
 <!-- <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/src/images/wave.svg" width="100%" /> -->
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📫 Connect with Me
