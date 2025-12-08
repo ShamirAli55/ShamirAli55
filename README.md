@@ -1,12 +1,18 @@
 <!-- Banner -->
+<br/><br/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/colors.gif" alt="banner" />
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 <h1 align="center">Hi 👋, I'm Shamir Ali <br>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 </h1>
 
-<table align="center">
+<table align="center" border=0>
   <tr>
 <td align="left">
   <h2>🚀 About Me</h2>
@@ -37,7 +43,6 @@
 
 </tr>
 </table>
-
 
 <table>
 <tr>
@@ -93,25 +98,34 @@
  <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamirali55&theme=redical&hide_border=true"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamirali55&theme=redical&hide_border=true"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamirali55&theme=radical"/>
+   <br/><br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamirali55&theme=radical" />
-  
 </div>
-
 </td>
 
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
 </p>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
----
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/wave.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/src/images/wave.svg" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📫 Connect with Me
 
@@ -127,5 +141,6 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/><br/>
 
