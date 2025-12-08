@@ -123,7 +123,6 @@
 <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/wave.gif" width="100%" />
 <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/src/images/wave.svg" width="100%" />
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
