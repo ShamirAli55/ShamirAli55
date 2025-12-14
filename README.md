@@ -96,12 +96,12 @@
 </td>
 <td align="center" width="40%">
  <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shamirali55&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamirali55&layout=compact&theme=radical&hide_border=true" />
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamirali55&theme=redical&hide_border=true"/> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamirali55&theme=radical"/>
    <br/><br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamirali55&theme=radical" />
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamirali55&theme=radical" /> -->
 </div>
 </td>
 
