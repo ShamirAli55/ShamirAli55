@@ -23,7 +23,7 @@
     <li>🎯 Open to collaboration & cool ideas</li>
   </ul>
 <p align="center" style="margin-top:100px;">
-  <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Shamir_Ali_Resume.pdf" download>
+  <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Resumee.pdf" download>
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?logo=adobeacrobat&style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
