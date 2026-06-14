@@ -16,7 +16,7 @@
 <td align="left">
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding-left: 0;">
-<li>🤖 🤖 Building intelligent systems powered by LLMs and real data retrieval</li>
+<li>🤖 Building AI systems that think with data, not just text</li>
 <li>🔧 Building full-stack MERN applications with practical use cases</li>
 <li>🧠 Designing scalable UI systems and backend integrations</li>
 <li>🚀 Open to collaboration on web and AI-focused projects</li>
