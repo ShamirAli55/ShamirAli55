@@ -16,10 +16,10 @@
 <td align="left">
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding-left: 0;">
-    <li>🌱 Learning <strong>React.js</strong>, <strong>GSAP</strong>, and <strong>REST APIs</strong></li>
-    <li>🤝 Exploring full-stack integrations</li>
-    <li>🧠 Goal: Master full-stack + motion-first UI</li>
-    <li>🎯 Open to collaboration & cool ideas</li>
+<li>🤖 🤖 Building intelligent systems powered by LLMs and real data retrieval</li>
+<li>🔧 Building full-stack MERN applications with practical use cases</li>
+<li>🧠 Designing scalable UI systems and backend integrations</li>
+<li>🚀 Open to collaboration on web and AI-focused projects</li>
   </ul>
 <p align="center" style="margin-top:100px;">
   <a href="https://github.com/ShamirAli55/ShamirAli55/raw/main/Resumee.pdf" download>
