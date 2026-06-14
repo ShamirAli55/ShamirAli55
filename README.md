@@ -5,9 +5,8 @@
   <img src="https://raw.githubusercontent.com/ShamirAli55/ShamirAli55/main/assets/colors.gif" alt="banner" />
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <h1 align="center">Hi 👋, I'm Shamir Ali <br>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=FullStack+Developer;React.js+Focused;UI+Animation+Lover" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1500&speed=30&color=00F7FF&center=true&vCenter=true&lines=MERN+Full+Stack+Developer;AI+Engineer" alt="Typing Animation" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </h1>
@@ -112,11 +111,26 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" /> -->
+<!-- <p align="center">
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=shamirali55&theme=radical&no-frame=true&row=1&margin-w=10" />
- <!-- <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=shamirali55&theme=radical&margin-w=10" /> -->
+ <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=shamirali55&theme=radical&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShamirAli55&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShamirAli55&theme=onedark&no-frame=true&row=2&column=4" /> -->
+   <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShamirAli55&theme=radical&no-frame=true&row=1&column=6" /> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ShamirAli55&theme=onedark&no-frame=true&row=2&column=4" /> -->
+<!-- </p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamirAli55&theme=react-dark&hide_border=true" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamirAli55&theme=radical&hide_border=true" />
 </p>
+
+
+
+
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br/><br/>
